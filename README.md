@@ -1,6 +1,6 @@
 <h1>Hi, my name's kiwi</h1>
-<p>I'm a very, very passionate frontend developer (lie) from the Netherlands. I love styling with CSS and Tailwind
-lksdlfjsldkfj</p>
+<p>I'm a very, very passionate frontend developer (lie) from the Netherlands. I love styling with CSS and Tailwind /n 
+asdasdasd</p> 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
