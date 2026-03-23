@@ -1,4 +1,4 @@
-<h1>Hi, my name's Butch</h1>
+<h1>Hi</h1>
 <h2>About me</h2>
 <p>I'm a very, very passionate frontend developer from the Netherlands. <br>
 I'm currently studying to be a frontend development at TCR <br>
